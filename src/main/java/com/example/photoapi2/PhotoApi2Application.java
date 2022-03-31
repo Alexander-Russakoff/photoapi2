@@ -1,0 +1,13 @@
+package com.example.photoapi2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PhotoApi2Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(PhotoApi2Application.class, args);
+    }
+
+}
